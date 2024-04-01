@@ -1,1 +1,1 @@
-# dc-clone
+# Discord Clone Project For Learning
